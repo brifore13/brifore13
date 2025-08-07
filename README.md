@@ -6,7 +6,7 @@ My Projects
 - Open Source contributions
   - [MathPlotLib 📊](https://github.com/matplotlib/matplotlib/pull/29696)
 - Reach Me:
-  - bforeman3@gmail.com 
+  - briforeman3@gmail.com 
 <!--
 **brifore13/brifore13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
