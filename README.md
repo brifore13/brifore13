@@ -1,9 +1,8 @@
-## Hi there 👋
-Hi my name is Bri, and I am full stack software engineer with a clinical medical background and experience in healthcare operations.
+## Hi there 👋 my name is Bri, and I am full stack software engineer with a clinical medical background and experience in healthcare operations.
 My Projects
-- [AI Wellness Chatbot 🤖](github.com/brifore13/) : Utilized Azure Open AI to create a wellness AI with features including chatting, daily recommendations, chat history, and program creation.
-- [FinTech Stock Trading Platform 📈](github.com/brifore13) : Utilized Alpha Vantage API for real time stock data with features including trading, financial integration, networth monitoring, and historical changes
-- [IoMT Health Platform 👟](github.com/brifore13) : Utilized Azure IoT integration to sync real time wearable device data with features including ml and sci-kit for health predictive scoring, biomarker trends and forcasting algorithms
+- [Benny: AI Wellness Chatbot 🤖](github.com/brifore13/) : Utilized Azure Open AI to create a wellness AI with features including chatting, daily recommendations, chat history, and program creation.
+- [TradeWise: FinTech Stock Trading Platform 📈](github.com/brifore13) : Utilized Alpha Vantage API for real time stock data with features including trading, financial integration, networth monitoring, and historical changes
+- [HealthSync: IoMT Health Platform 👟](github.com/brifore13) : Utilized Azure IoT integration to sync real time wearable device data with features including ml and sci-kit for health predictive scoring, biomarker trends and forcasting algorithms
 - Open Source contributions
   - [MathPlotLib 📊](https://github.com/matplotlib/matplotlib/pull/29696)
 - Reach Me:
