@@ -2,7 +2,7 @@
 My Projects
 - [Benny: AI Wellness Chatbot 🤖](github.com/brifore13/) : Utilized Azure Open AI to create a wellness AI with features including chatting, daily recommendations, chat history, and program creation.
 - [TradeWise: FinTech Stock Trading Platform 📈](github.com/brifore13) : Utilized Alpha Vantage API for real time stock data with features including trading, financial integration, networth monitoring, and historical changes
-- [HealthSync: IoMT Health Platform 👟](github.com/brifore13) : Utilized Azure IoT integration to sync real time wearable device data with features including ml and sci-kit for health predictive scoring, biomarker trends and forcasting algorithms
+- [HealthSync: IoMT Health Platform 👟](https://github.com/brifore13/HealthSync/blob/master/README.md) : Utilized Azure IoT integration to sync real time wearable device data with features including ml and sci-kit for health predictive scoring, biomarker trends and forcasting algorithms
 - Open Source contributions
   - [MathPlotLib 📊](https://github.com/matplotlib/matplotlib/pull/29696)
 - Reach Me:
