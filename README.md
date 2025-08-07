@@ -5,8 +5,8 @@ My Projects
 - [HealthSync: IoMT Health Platform 👟](https://github.com/brifore13/HealthSync/blob/master/README.md) : Utilized Azure IoT integration to sync real time wearable device data with features including ml and sci-kit for health predictive scoring, biomarker trends and forcasting algorithms
 - Open Source contributions
   - [MathPlotLib 📊](https://github.com/matplotlib/matplotlib/pull/29696)
-- Reach Me:
-  - briforeman3@gmail.com 
+- Interests:
+  - Innovating technology that improves health, research, science, and financial outcomes.
 <!--
 **brifore13/brifore13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
