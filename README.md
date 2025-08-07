@@ -5,7 +5,7 @@ Hi my name is Bri, and I am full stack software engineer with a clinical medical
   - [FinTech Stock Trading Platform 📈](github.com/brifore13) : Utilized Alpha Vantage API for real time stock data with features including trading, financial integration, networth monitoring, and historical changes
   - [IoMT Health Platform 👟](github.com/brifore13) : Utilized Azure IoT integration to sync real time wearable device data with features including ml and sci-kit for health predictive scoring, biomarker trends and forcasting algorithms
 - Open Source contributions
-  - [MathPlotLib 📊]((https://github.com/matplotlib/matplotlib/pull/29696))
+  - [MathPlotLib 📊](https://github.com/matplotlib/matplotlib/pull/29696)
 - Reach Me:
   - bforeman3@gmail.com 
 <!--
