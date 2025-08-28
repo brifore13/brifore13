@@ -1,4 +1,4 @@
-## Hi there 👋 my name is Bri, and I am full stack software engineer with a clinical medical background and experience in healthcare operations.
+## Hi there 👋 my name is Bri, and I am full stack software developer with a background in Healthcare and a doctorate in Physical Therapy.
 My Projects
 - [Benny: AI Wellness Chatbot 🤖](https://github.com/brifore13/WellnessAI/blob/main/README.md) : Utilized Azure Open AI to create a wellness AI with features including chatting, daily recommendations, chat history, and program creation.
 - [TradeWise: FinTech Stock Trading Platform 📈](https://github.com/brifore13/TradeWise/blob/master/README.md) : Utilized Alpha Vantage API for real time stock data with features including trading, financial integration, networth monitoring, and historical changes
