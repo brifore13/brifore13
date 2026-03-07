@@ -1,10 +1,10 @@
 ## Hi there 👋 my name is Bri, and I am full stack software developer with a background in Healthcare.
 My Projects
-- [Benny: AI Wellness Chatbot 🤖](https://github.com/brifore13/WellnessAI/blob/main/README.md) : Utilized Azure Open AI to create a wellness AI with features including chatting, daily recommendations, chat history, and program creation.
+- [Wellness AI 🤖]([https://github.com/brifore13/WellnessAI/blob/main/README.md](https://github.com/brifore13/Wellness_AI/blob/master/README.md)) : Wellness AI with features including chatting, daily recommendations, chat history, and program creation.
 - [TradeWise: FinTech Stock Trading Platform 📈](https://github.com/brifore13/TradeWise/blob/master/README.md) : Utilized Alpha Vantage API for real time stock data with features including trading, financial integration, networth monitoring, and historical changes
--[The Geography of Chronic Disease and Life Expectancy in America⚕️](https://github.com/brifore13/chroni-disease-life-expectancy-analysis#the-geography-of-chronic-disease-and-life-expectancy-in-america) : Python, SQL, R & Tableu
-- [CMS Hospital Readmissions 2025 🏥](https://github.com/brifore13/Hospital-Readmissions/blob/main/README.md) : PowerBI Data Visualization & Analysis
-- Open Source contributions
+-[The Geography of Chronic Disease and Life Expectancy in America⚕️](https://github.com/brifore13/chroni-disease-life-expectancy-analysis#the-geography-of-chronic-disease-and-life-expectancy-in-america) : Data analysis and visualization of public health metrics in the US using Python, SQL, R & Tableu
+- [CMS Hospital Readmissions 2025 🏥](https://github.com/brifore13/Hospital-Readmissions/blob/main/README.md) : PowerBI Data Visualization & Analysis for hospital readmisions by region, disease, and care metrics
+- Open Source contributions: improved bar graph visualization by allowing data placement by individual bar rather than graph alone.
   - [MathPlotLib 📊](https://github.com/matplotlib/matplotlib/pull/29696)
 - Interests:
   - Innovating technology that improves health, research, science, and financial outcomes.
