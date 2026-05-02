@@ -3,9 +3,10 @@ Interested in Data Science, AI engineering, ML engineering, and SWE.
 
 My Projects
 - [The Geography of Chronic Disease and Life Expectancy in America⚕️](https://github.com/brifore13/chroni-disease-life-expectancy-analysis/blob/main/README.md) : Analyzed CDC PLACES and NCHS data across 49 states to identify drivers of life expectancy variation.
+- [CMS Hospital Readmissions 2025 🏥](https://github.com/brifore13/Hospital-Readmissions/blob/main/README.md) : PowerBI Data Visualization & Analysis for hospital readmisions by region, disease, and care metrics.
 - [Wellness AI 🤖](https://github.com/brifore13/Wellness_AI/blob/master/README.md) : Wellness AI with features including chatting, daily recommendations, chat history, and program creation.
 - [TradeWise: FinTech Stock Trading Platform 📈](https://github.com/brifore13/TradeWise/blob/master/README.md) : Utilized Alpha Vantage API for real time stock data with features including trading, financial integration, networth monitoring, and historical changes.
-- [CMS Hospital Readmissions 2025 🏥](https://github.com/brifore13/Hospital-Readmissions/blob/main/README.md) : PowerBI Data Visualization & Analysis for hospital readmisions by region, disease, and care metrics.
+
 - Open Source contributions: improved bar graph visualization by allowing data placement by individual bar rather than graph alone.
   - [MathPlotLib 📊](https://github.com/matplotlib/matplotlib/pull/29696)
 - Interests:
